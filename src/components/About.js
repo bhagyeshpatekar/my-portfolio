@@ -2,7 +2,7 @@ import React from "react";
 
 // import img
 import Image from "../assets/img/bhagyesh.png";
-import resume from "../assets/Yash-Devrukhkar.pdf";
+import resume from "../assets/Bhagyesh-Patekar.pdf";
 const About = () => {
   return (
     <section className="section bg-black" id="about">
