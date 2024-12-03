@@ -26,7 +26,7 @@ const Projects = () => {
     {
       name: "Zomato Clone App",
       img: "https://github.com/vaibhav123-dev/vaibhav123-dev/assets/81352701/3f8bd979-76a8-4abd-abf8-2e5e0de65771",
-      feature: "Zomato made with ReactJs. Tech-stack : [React] ",
+      feature: "Zomato made with Angular, Tech-stack : [Angular] ",
       Link: "https://zomato-clone-gold-pi.vercel.app/",
       Github: "https://github.com/bhagyeshpatekar/zomato-clone",
     },
